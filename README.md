@@ -1,4 +1,4 @@
-Data Science Job Salaries Dataset
+# Data Science Job Salaries Dataset
 
 This dataset contains details regarding the salaries of different Data science professionals in the United States based on factors like employment type, company location,etc. for the year 2020, 2021 and 2022.
 
@@ -6,7 +6,7 @@ Since 2012, Data Scientist roles have increased by 650 percent, and this rise sh
 
 The dataset will be explored so that we can get insights on some data-driven questions
 
-Feature Description
+# Feature Description
 
 work_year - The year the salary was paid.
 
